@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JobRecruitment</name>
+    </assembly>
+    <members>
+        <member name="T:JobRecruitment.Controllers.TestController">
+             <summary>
+            测试接口
+             </summary>
+        </member>
+        <member name="M:JobRecruitment.Controllers.TestController.GetString">
+             <summary>
+            返回string
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="T:JobRecruitment.Controllers.WeatherForecastController">
+            <summary>
+            测试接口
+            </summary>
+        </member>
+        <member name="M:JobRecruitment.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{JobRecruitment.Controllers.WeatherForecastController})">
+             <summary>
+            构造函数
+             </summary>
+             <param name="logger">日志</param>
+        </member>
+        <member name="M:JobRecruitment.Controllers.WeatherForecastController.Get(System.String)">
+             <summary>
+            测试请求
+             </summary>
+             <param name="id">参数Id</param>
+             <returns></returns>
+        </member>
+        <member name="M:JobRecruitment.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+             <summary>
+            
+             </summary>
+             <param name="services"></param>
+        </member>
+        <member name="M:JobRecruitment.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+             <summary>
+            
+             </summary>
+             <param name="app"></param>
+             <param name="env"></param>
+        </member>
+    </members>
+</doc>

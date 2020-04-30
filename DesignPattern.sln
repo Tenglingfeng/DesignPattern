@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single", "Single\Single.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{B4DCA65A-F954-48AC-BB46-46A39EDE6031}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobRecruitment", "JobRecruitment\JobRecruitment.csproj", "{45859A1B-07A5-4E41-BA1B-406F24423BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document", "Document\Document.csproj", "{29B834CC-E63A-42DD-B884-7138E59566FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B4DCA65A-F954-48AC-BB46-46A39EDE6031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4DCA65A-F954-48AC-BB46-46A39EDE6031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4DCA65A-F954-48AC-BB46-46A39EDE6031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45859A1B-07A5-4E41-BA1B-406F24423BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45859A1B-07A5-4E41-BA1B-406F24423BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45859A1B-07A5-4E41-BA1B-406F24423BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45859A1B-07A5-4E41-BA1B-406F24423BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B834CC-E63A-42DD-B884-7138E59566FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B834CC-E63A-42DD-B884-7138E59566FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B834CC-E63A-42DD-B884-7138E59566FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B834CC-E63A-42DD-B884-7138E59566FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
